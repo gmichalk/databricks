@@ -1,3 +1,3 @@
 class Pipeline:
     def __init__(self):
-        print("Test")
+        print("Test 1")
